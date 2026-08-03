@@ -1,4 +1,9 @@
 ---
+version: 1.0.0
+slug: qianjin-yixue-research
+displayName: 易学文化研究
+summary: "'易学文化研究工具——国学八字排盘与文化解读。输入公历/农历生日，输出标准八字排盘、天干地支、五行属性、十神关系，以及传统文化内涵解读。仅供文化研究参考，不构成人生决策建议。'"
+license: MIT
 name: yixue-cultural-research
 category: 文化研究
 platforms: [workbuddy, claude-code, cursor, windsurf, codex]
